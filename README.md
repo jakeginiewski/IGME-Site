@@ -1,2 +1,2 @@
-# IGME-Site
-Website for IGME110
+# igme110-site
+ 
